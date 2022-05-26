@@ -6,7 +6,7 @@ A collection of various bits of information and notes this community finds usefu
 
 ### Cooking
 
-- [Common Materials Used to Make Utensils and Cookware](cooking/CommonMaterialsUtensilsCookware.md)
+- [Common Materials Used to Make Utensils and Cookware](Cooking/CommonMaterialsUtensilsCookware.md)
 
 ### Board Gaming and Card gaming
 
