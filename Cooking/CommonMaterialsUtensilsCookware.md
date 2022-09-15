@@ -138,6 +138,7 @@ Bengali: লোহা, ঢালাই লোহা
 ### Enameled Cast Iron / Coated Cast Iron / Ceramic Coated Aluminium
 
 - The coating can rub off eventually, potentially exposing the bonding glue.
+- Cadmium poisoning is a possiblity.
 
 ### Ceramic
 
@@ -149,16 +150,17 @@ Bengali: লোহা, ঢালাই লোহা
 - Often contain toxic chemicals.
 - Eventually degrades and exposes harmful bonding glue.
 
-### Glassclay
+### Glass
 
 - Excellent for utensils.
 - Extremely non-reactive.
-- Difficult to cook with without specialized ovens.
+- Difficult to cook with, without specialized ovens.
 
 ### Porcelain
 
 - Great for utensils.
 - Coloring may contain harmful chemicals.
+- Cadmium poisoning is a possiblity.
 
 ### Melamine
 
